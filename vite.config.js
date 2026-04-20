@@ -6,6 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
+  // base: '/Web-site-os-game-lz-2026/',
   plugins: [
     vue(),
     vueDevTools(),
